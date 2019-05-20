@@ -3,6 +3,8 @@ package com.example.recyclerview;
 public class Fruit {
     private String name;
     private int imageId;
+    private String label;
+    private String justForTest;
 
     public Fruit(String name, int imageId) {
         this.name = name;
