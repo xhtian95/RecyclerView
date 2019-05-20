@@ -6,6 +6,7 @@ public class Fruit {
     private String label;
     private String justForTest;
     private String nonono;
+    private String myII;
 
     public Fruit(String name, int imageId) {
         this.name = name;
